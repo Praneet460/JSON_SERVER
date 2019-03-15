@@ -1,73 +1,16 @@
 {
   "img":[
-    {
-      "id":"1",
+   {
+      "id": "1",
       "imgURL": "https://user-images.githubusercontent.com/23660137/54424654-684b8b00-4739-11e9-80c4-48215511797b.jpg"
     },
     {
-      "id":"2",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjQwNTgxMTEwNl5BMl5BanBnXkFtZTgwNDc4MjkzNTM@._V1_QL50_SX1500_CR0,0,1500,999_AL_.jpg"
+      "id": "2",
+      "imgURL": "https://user-images.githubusercontent.com/23660137/54425232-d47abe80-473a-11e9-8316-0a8404100f61.jpg"
     },
     {
-      "id":"3",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BOTkxOTIwMzk1OF5BMl5BanBnXkFtZTcwMDM4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"4",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTM0NjYxMjYwN15BMl5BanBnXkFtZTcwMzM4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"5",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjE1MzEzMjcyM15BMl5BanBnXkFtZTcwNDM4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"6",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjA3NDM1NDg5Nl5BMl5BanBnXkFtZTcwMTQ4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"7",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTgwNzA5NjczMV5BMl5BanBnXkFtZTcwMzQ4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"8",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BNTAzNjk1MDE3NV5BMl5BanBnXkFtZTcwNDQ4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"9",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTkxMjgyNTIyMl5BMl5BanBnXkFtZTcwNTQ4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"10",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BNjUyNTU3NzQ3MF5BMl5BanBnXkFtZTcwNjQ4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"11",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjA2NzI5NjA0OV5BMl5BanBnXkFtZTcwNzk4ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"12",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTQ1NTEwNzg0MF5BMl5BanBnXkFtZTcwMTA5ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"13",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjE4MjE2NTY1N15BMl5BanBnXkFtZTcwMzk5ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"14",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTQxNTc3MDgwNl5BMl5BanBnXkFtZTcwNzk5ODY3Nw@@._V1_QL50_SX1777_CR0,0,1777,999_AL_.jpg"
-    },
-    {
-      "id":"15",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMjAxMzcyMTcyNF5BMl5BanBnXkFtZTcwMjkwOTY3Nw@@._V1_QL50_SX1500_CR0,0,1500,999_AL_.jpg"
-    },
-    {
-      "id":"16",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BMTYwNTA0MjI0MV5BMl5BanBnXkFtZTcwNDAxOTY3Nw@@._V1_QL50_SX1500_CR0,0,1500,999_AL_.jpg"
-    },
-
-    {
-      "id": "17",
-      "imgURL":"https://m.media-amazon.com/images/M/MV5BOWVlYjQwOGMtYzU3ZC00MDdkLWE5OGEtNWY4MTgwNDEyZTY1XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL50_SY1000_SX1500_AL_.jpg"
+      "id": "3",
+      "imgURL": "https://user-images.githubusercontent.com/23660137/54425235-d47abe80-473a-11e9-92fe-6f75827fbe14.jpg"
     }
 
 
